@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata from this file."
+type: dataset
+title: "Benign Medical Image Segmentation Dataset"
+authors:
+  - family-names: "Hafeez"
+    given-names: "Yasir"
+  - family-names: "Memon"
+    given-names: "Khuhed"
+  - family-names: "AL-Quraishi"
+    given-names: "Maged S."
+  - family-names: "Yahya"
+    given-names: "Norashikin"
+  - family-names: "Elferik"
+    given-names: "Sami"
+  - family-names: "Ali"
+    given-names: "Syed Saad Azhar"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Hafeez"
+      given-names: "Yasir"
+    - family-names: "Memon"
+      given-names: "Khuhed"
+    - family-names: "AL-Quraishi"
+      given-names: "Maged S."
+    - family-names: "Yahya"
+      given-names: "Norashikin"
+    - family-names: "Elferik"
+      given-names: "Sami"
+    - family-names: "Ali"
+      given-names: "Syed Saad Azhar"
+  title: "Explainable AI in Diagnostic Radiology for Neurological Disorders: A Systematic Review, and What Doctors Think About It"
+  journal: "Diagnostics"
+  volume: 15
+  issue: 2
+  pages: 168
+  year: 2025
+  doi: "10.3390/diagnostics15020168"
+  url: "https://www.mdpi.com/2075-4418/15/2/168"
